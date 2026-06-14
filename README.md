@@ -1,4 +1,4 @@
-# Suitability Analysis: Multi-Criteria-Analysis
+# Suitability Analysis: Multi-Criteria-Estimation-Analysis
 Using MCE to do a suitability analysis with four factors 
 
 
